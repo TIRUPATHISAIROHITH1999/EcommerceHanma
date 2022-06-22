@@ -49,28 +49,28 @@ const viewing = function () {
                         <div class="col 12"><h5>Shipment will be delivered by November 8 under control of HANMACORPLOGISTICS.LTD</h5></div>
                     </div>
                     <div class="row">
-                        <div class="col-4">Mon 8 November</div>
-                        <div class="col-2">12.00AM</div>
-                        <div class="col-2">Maharasthra</div>
-                        <div class="col-4">Dispatched under the control of HANMACORP.LOGISTIC</div>
+                        <div class="col-12 col-lg-4 col-md-12 col-sm-12">Mon 8 November</div>
+                        <div class="col-12 col-lg-2 col-md-12 col-sm-12">12.00AM</div>
+                        <div class="col-12 col-lg-2 col-md-12 col-sm-12">Maharasthra</div>
+                        <div class="col-12 col-lg-4 col-md-12 col-sm-12">Dispatched under the control of HANMACORP.LOGISTIC</div>
                     </div>
                     <div class="row">
-                        <div class="col-4">Mon 8 November</div>
-                        <div class="col-2">12.00AM</div>
-                        <div class="col-2">Telangana</div>
-                        <div class="col-4">Dispatched under the control of HANMACORP.LOGISTIC</div>
+                        <div class="col-12 col-lg-4 col-md-12 col-sm-12">Mon 8 November</div>
+                        <div class="col-12 col-lg-2 col-md-12 col-sm-12">12.00AM</div>
+                        <div class="col-12 col-lg-2 col-md-12 col-sm-12">Telangana</div>
+                        <div class="col-12 col-lg-4 col-md-12 col-sm-12">Dispatched under the control of HANMACORP.LOGISTIC</div>
                     </div>
                     <div class="row">
-                        <div class="col-4">Mon 8 November</div>
-                        <div class="col-2">12.00AM</div>
-                        <div class="col-2">Andhra-Pradesh</div>
-                        <div class="col-4">Dispatched under the control of HANMACORP.LOGISTIC</div>
+                        <div class="col-12 col-lg-4 col-md-12 col-sm-12">Mon 8 November</div>
+                        <div class="col-12 col-lg-2 col-md-12 col-sm-12">12.00AM</div>
+                        <div class="col-12 col-lg-2 col-md-12 col-sm-12">Andhra-Pradesh</div>
+                        <div class="col-12 col-lg-4 col-md-12 col-sm-12">Dispatched under the control of HANMACORP.LOGISTIC</div>
                     </div>
                     <div class="row">
-                        <div class="col-4">Mon 8 November</div>
-                        <div class="col-2">12.00AM</div>
-                        <div class="col-2">Karnataka</div>
-                        <div class="col-4">Dispatched under the control of HANMACORP.LOGISTIC</div>
+                        <div class="col-12 col-lg-4 col-md-12 col-sm-12">Mon 8 November</div>
+                        <div class="col-12 col-lg-2 col-md-12 col-sm-12">12.00AM</div>
+                        <div class="col-12 col-lg-2 col-md-12 col-sm-12">Karnataka</div>
+                        <div class="col-12 col-lg-4 col-md-12 col-sm-12">Dispatched under the control of HANMACORP.LOGISTIC</div>
                     </div>
                 </div>
             </div>
