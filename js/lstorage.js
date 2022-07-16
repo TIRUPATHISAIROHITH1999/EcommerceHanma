@@ -163,7 +163,7 @@ async function loadProduct(productListUrl) {
           {
               addToWish[i].addEventListener('click',function()
               {
-                  
+                   window.location.reload();  
                   function addWish() {
                     
                           // Parse any JSON previously stored in allEntries
