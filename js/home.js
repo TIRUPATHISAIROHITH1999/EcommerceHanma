@@ -6,12 +6,16 @@ const registerForm = document.getElementById("registerForm");
 const redirectionBtn=document.querySelectorAll(".card-link");
 // function//
 
-redirectionBtn.forEach(addEventListener('click',function()
+for(let i=0;i<redirectionBtn.length;i++)
 {
-    alert(`These are bummy products.Still under construction until i master Database.
+    redirectionBtn[i].addEventListener('click',function()
+    {
+        alert(`These are bummy products.Still under construction until i master Database.
 So we are redirecting you to mini-server page where all these operations work.
 Have a nice day !!!!`);
-}));
+ this.window.location.href="lstorage.html";
+    });
+}
 
 loginButton.addEventListener('click', function () {
     loginForm.style.display = "block";
