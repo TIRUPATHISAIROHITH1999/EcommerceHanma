@@ -75,7 +75,7 @@ totalPrice1=`${totalPricing()}`;
         {
             returnOutput+=`<div class="col-12 col-lg-12 col-md-12 col-sm-12" id="AllBlock">
             <div class="row" id="middle-part">
-                <div class="col-6 col-lg-2 col-md-2 col-sm-6"><img src="source/product${localItems[i].id}.avif"
+                <div class="col-6 col-lg-2 col-md-2 col-sm-6"><img src="source/product${localItems[i].id}.jpg"
                         class="img-thumbnail" alt="..." width="200px">
                     </div>
                 <div class="col-6 col-lg-5 col-md-5 col-sm-6">
