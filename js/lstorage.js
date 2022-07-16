@@ -35,7 +35,7 @@ $('#usa').click(function () {
     $('.currencyUsa').removeClass("spanHide");
 });
 $('#add-to-cart').click(function () {
-   window.location.reload();
+   this.window.location.reload();
 });
 
 
