@@ -21,7 +21,7 @@ const displayorder=function()
 {
     returnhtml+=`<div id="product-box" class="col-12 col-lg-12 col-md-12 col-sm-12">
     <div class="row">
-        <div class="col-4 col-lg-2 col-md-3 col-sm-4"><img src="source/product${localItemsTrack[i].id}.avif" class="img-thumbnail" alt="..."></div>
+        <div class="col-4 col-lg-2 col-md-3 col-sm-4"><img src="source/product${localItemsTrack[i].id}.jpg" class="img-thumbnail" alt="..."></div>
         <div id="productName" class="col-8 col-lg-4 col-md-5 col-sm-5"><h5>${localItemsTrack[i].title}</h5>
         <p>COLOR:WHITE</p>
     <p>SELLER:HANMADRAGONIOD</p></div>
