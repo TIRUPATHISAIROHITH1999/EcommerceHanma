@@ -31,7 +31,7 @@ const viewing = function () {
 
         returnTheView += ` <div id="product-box" class="col-12 col-lg-12 col-md-12 col-sm-12">
         <div class="row">
-            <div class="col-12 col-lg-4 col-md-4 col-sm-12"><img src="source/product${viewingProduct[i].id}.avif" class="img-thumbnail" alt="..."></div>
+            <div class="col-12 col-lg-4 col-md-4 col-sm-12"><img src="source/product${viewingProduct[i].id}.jpg" class="img-thumbnail" alt="..."></div>
             <div id="productName" class="col-6 col-lg-5 col-md-5 col-sm-6"><h5>${viewingProduct[i].title}</h5>
             <p>COLOR:WHITE<br>SELLER:HANMADRAGONIOD</p>
         <div class="starBox">
