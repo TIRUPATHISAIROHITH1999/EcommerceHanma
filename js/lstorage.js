@@ -34,10 +34,6 @@ $('#usa').click(function () {
     $('.currencyJap').addClass("spanHide");
     $('.currencyUsa').removeClass("spanHide");
 });
-$('#add-to-cart').click(function () {
-   this.window.location.reload();
-});
-
 
 // filter button
 $('.sideNavbar ul li i').on('click', function () {
@@ -132,6 +128,7 @@ async function loadProduct(productListUrl) {
         {
             addToCart[i].addEventListener('click',function()
             {    
+                window.location.reload();  
                 function addEntry() {
                   
                         // Parse any JSON previously stored in allEntries
