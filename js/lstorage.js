@@ -93,7 +93,7 @@ async function loadProduct(productListUrl) {
             };
             returnHtml=`<div class="col-12 col-lg-4 col-md-12 col-sm-12" id="${product.id}"> 
             <div class ="card" style="width: 90%;margin-left: 5%;margin-top:50px">
-                <img src ="source/product${product.id}.avif" class="card-img-top" alt= "..." >
+                <img src ="source/product${product.id}.jpg" class="card-img-top" alt= "..." >
              <span class="can-new">${newSpan()}</span>
                 <div class="threeIcons invisible">
                  <div class="row">
