@@ -13,7 +13,7 @@ for(let i=0;i<redirectionBtn.length;i++)
         alert(`These are bummy products.Still under construction until i master Database.
 So we are redirecting you to mini-server page where all these operations work.
 Have a nice day !!!!`);
- this.window.location.href="lstorage.html";
+//  this.window.location.href="lstorage.html";
     });
 }
 
