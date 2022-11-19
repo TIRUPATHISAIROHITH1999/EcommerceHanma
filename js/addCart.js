@@ -75,7 +75,7 @@ totalPrice1=`${totalPricing()}`;
         {
             returnOutput+=`<div class="col-12 col-lg-12 col-md-12 col-sm-12" id="AllBlock">
             <div class="row" id="middle-part">
-                <div class="col-6 col-lg-2 col-md-2 col-sm-6"><img src="source/product${localItems[i].id}.jpg"
+                <div class="col-6 col-lg-2 col-md-2 col-sm-6"><img src="${localItems[i].url}"
                         class="img-thumbnail" alt="..." width="200px">
                     </div>
                 <div class="col-6 col-lg-5 col-md-5 col-sm-6">
@@ -170,6 +170,7 @@ document.querySelector('.placeOrder').addEventListener('click',function()
                      "price": localItems[i].price,
                      "discount": localItems[i].discount,
                      "id": localItems[i].id,
+                     "url":localItems[i].url
                  };
                  console.log(wish);
                  // localStorage.setItem("entry", JSON.stringify(entry));

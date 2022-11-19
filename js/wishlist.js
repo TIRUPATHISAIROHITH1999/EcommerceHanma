@@ -22,7 +22,7 @@ const pineApple=function()
     {
         returnWish+=`<div id="full-card" class="col-12 col-lg-12 col-md-12 col-sm-12">
         <div class="row" id="middle-part">
-            <div class="col-3 col-lg-2 col-md-2 col-sm-2"><img src="source/product${localWish[i].id}.jpg"
+            <div class="col-3 col-lg-2 col-md-2 col-sm-2"><img src="${localWish[i].url}"
                     class="img-thumbnail" alt="..." width="200px">
             </div>
             <div class="col-5 col-lg-5 col-md-5 col-sm-5">
@@ -96,6 +96,7 @@ for(let i=0;i<addToCart.length;i++)
                     "price":localWish[i].price,
                     "discount":localWish[i].discount,
                     "id":localWish[i].id,
+                    "url":localWish[i].url
                 };
                 console.log(entry);
                 // localStorage.setItem("entry", JSON.stringify(entry));
