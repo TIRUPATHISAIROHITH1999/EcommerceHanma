@@ -10,7 +10,7 @@ for(let i=0;i<redirectionBtn.length;i++)
 {
     redirectionBtn[i].addEventListener('click',function()
     {
-        alert(`These are bummy products.Still under construction until i master Database.
+        alert(`These are dummy products.Still under construction until i master Database.
 So we are redirecting you to mini-server page where all these operations work.
 Have a nice day !!!!`);
 //  this.window.location.href="lstorage.html";
